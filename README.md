@@ -16,6 +16,6 @@ To complete this project, the follwoing software were used:
 
 The files used were:
 
-*Chicago.csv
-*New_York_City.csv
-*Washington.csv
+* Chicago.csv
+* New_York_City.csv
+* Washington.csv
