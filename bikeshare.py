@@ -138,10 +138,10 @@ Calculating The Most Frequent Times of Travel...
     # TO DO: display the most common day of week
     df['Week day'] = pd.DatetimeIndex(df['Start Time']).weekday_name
     common_day = df['Week day'].mode()[0]
-    days_count = df['Week day'].value_counts()
+    day_count = df['Week day'].value_counts()
 
     print ('The most common day is {} and count is {}.'.format(common_day,
-        days_count.max()))
+        day_count.max()))
 
     # TO DO: display the most common start hour
 
