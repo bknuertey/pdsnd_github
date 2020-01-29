@@ -19,3 +19,8 @@ The files used were:
 * Chicago.csv
 * New_York_City.csv
 * Washington.csv
+
+
+**Credits**
+
+[link](https://github.com/vwadhwa3/Explore-US-Bikeshare-Data/blob/master/bikeshare.py "Project of vwadhwa3")
