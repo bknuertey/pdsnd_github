@@ -130,10 +130,10 @@ Calculating The Most Frequent Times of Travel...
     
     df['month'] = pd.DatetimeIndex(df['Start Time']).month
     common_month = df['month'].mode()[0]
-    months_count = df['month'].value_counts()
+    month_count = df['month'].value_counts()
 
     print ('The most common month is {} and count is {}.'.format(common_month,
-        months_count.max()))
+        month_count.max()))
 
     # TO DO: display the most common day of week
     df['Week day'] = pd.DatetimeIndex(df['Start Time']).weekday_name
