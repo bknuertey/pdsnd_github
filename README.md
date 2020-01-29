@@ -1,15 +1,21 @@
-### Date created
-Include the date you created this project and README file.
+**29/01/2020**
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+**Exploring US Bikeshare Data**
 
-### Files used
-Include the files used
+In this project, *Python* is used to explore adata related to bikeshare systems for three major cities in the United States-*Chicago, New York City, and Washington*. The code imports data and answers interesting questions about it by computing descriptive statistics. Also a script is included that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+**What Software And Files Were Used?**
+
+To complete this project, the follwoing software were used:
+
+* Python 3, NumPy, and pandas installed using Anaconda
+* A text editor (Sublime)
+* A terminal (Cygwin on Windows)
+
+The files used were:
+
+*Chicago.csv
+*New_York_City.csv
+*Washington.csv
